@@ -1,0 +1,7 @@
+{
+  "name": "firstApi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
